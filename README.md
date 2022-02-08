@@ -1,6 +1,6 @@
 ## William Dias Marcos 
 
-Entusiasta das melhores tecnologias relacionadas ao desenvolvimento Front-End, buscando aprendizado no mercado de desenvolvimento de e trabalho em equipe, procurando me tornar um excelente solucionador de problemas;
+Entusiasta das melhores tecnologias relacionadas ao Front-End, buscando aprendizado no mercado de desenvolvimento de e trabalho em equipe, procurando me tornar um excelente solucionador de problemas;
 
 Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
 
