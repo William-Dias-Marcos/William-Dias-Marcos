@@ -15,13 +15,6 @@ Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um prob
 </div>
   
   ##
-
-<div>
-  <a href= "https://github.com/William-Dias-Marcos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Dias-Marcos&layout=compact&langs_count=7&theme=white"/>
-</div>
-  
-  ##
   
 <div> 
  <a href = "mailto:william.diasmarcos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"        target="_blank"></a>
